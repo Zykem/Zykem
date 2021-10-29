@@ -1,14 +1,7 @@
 ```
-      ,~~.
-     (  9 )-_,
-(\___ )=='-'
- \ .   ) )
-  \ `-' /
-   `~j-'   sokin#6666
-     "=:
-                                                          
+🆉🆈🅺🅴🅼                                                   
 ```
-<h1 align="center">Hi <img src="https://sokin.eu/xd/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Siemka, tu Zykem</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu|+discord.gg/sokin6" />
