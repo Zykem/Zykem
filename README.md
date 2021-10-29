@@ -8,13 +8,6 @@
 </p>
 
 
-```diff
-@@Info@@
-Uczę się takich Języków jak
-**Lua, C#, JS**
-
-```
-
 ### Kontakt:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> soon ]
