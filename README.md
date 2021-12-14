@@ -1,10 +1,10 @@
 ```
 🆉🆈🅺🅴🅼                                                   
 ```
-<h1 align="center">Siemka, tu Zykem</h1>
+<h1 align="center">Zykem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=DAA69A&width=500&lines=Siemka+|zykems.pl|+discord.gg/soon" />
+
 </p>
 
 
