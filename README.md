@@ -1,6 +1,4 @@
-```
-🆉🆈🅺🅴🅼                                                   
-```
+
 <h1 align="center">Zykem</h1>
 
 <p align="center">
@@ -17,9 +15,6 @@
 ### Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zykem&count_private=true&show_icons=true?theme=buefy)
 
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Zykem/count.svg)
 
 <br />
 
