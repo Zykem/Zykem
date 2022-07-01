@@ -7,7 +7,7 @@
 
 
 ### Github stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zykem&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zykem&count_private=true&show_icons=true?theme=tokyonight)
 
 
 <br />
