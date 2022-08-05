@@ -4,7 +4,7 @@
 <p align="center">
 
 </p>
-currently messing around with node.js and java
+currently messing around with node.js, java and lua
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zykem&show_icons=true&theme=dracula)
