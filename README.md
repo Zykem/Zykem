@@ -4,7 +4,7 @@
 <p align="center">
 
 </p>
-currently messing around with node.js, lua and UI design
+currently messing around with node.js, lua and Web Design
 
 
 
