@@ -33,7 +33,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=zykem9&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="zykemnew@gmail.com" target="_blank">
+  <a href="mailto:zykemdev@gmail.com?subject=General%20INquiries,%20Job%20offer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
