@@ -1,7 +1,5 @@
-
-<h1 align="center">Zykem</h1>
-
-discord: zykem
+Available for hire
+Contact via discord: `zykem9`
 
 
 
