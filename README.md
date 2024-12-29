@@ -1,4 +1,4 @@
-<h2 align="left">I'm zykem. A passionate developer located in Austria.</h2>
+<h2 align="left">I'm zykem. A developer located in Austria.</h2>
 
 ###
 
